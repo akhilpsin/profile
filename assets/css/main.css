@@ -31,7 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
-	background-color: 121018;;
+	background-color : 121018;
 }
 
 ol, ul {
@@ -1330,22 +1330,21 @@ input, select, textarea {
 				justify-content:center;
 			}
 
-				#header nav ul li:first-child {
-					border-left: 0;
-				}
+				
 
-				#header nav ul li a {
-					display: block;
-					min-width: 7.5rem;
-					height: 4.0rem;
-					border: solid 2px #ffffff;
-					
-					padding: 20px;
-
-					text-transform: uppercase;
-					letter-spacing: 0.3rem;
-					font-size: 0.9rem;
-				}
+			#header nav ul li a {  
+				display: block;  
+				height: 4.0rem;  
+				border: solid 2px #ffffff;  
+				border-radius: 1%;
+				text-align: center;  
+				text-transform: uppercase;  
+				letter-spacing: 0.2rem;  
+				font-size: 1.0rem;  
+				line-height: 4.0rem;
+				padding: 0 1rem;
+			}  
+			
 					#header nav ul li a:hover {
 						background-color: rgba(255, 255, 255, 0.311);
 					}
