@@ -2,14 +2,14 @@ VANTA.WAVES({
     el: "#wrapper",
     mouseControls: true,
     touchControls: true,
-    gyroControls: true,
+    gyroControls: false,
     minHeight: 200.00,
     minWidth: 200.00,
     scale: 1.000,
     scaleMobile: 1.00,
-    color: 0x121018,
-    shininess: 82.00,
+    color: 0x000000,
+    shininess: 85.00,
     waveHeight: 34.00,
-    waveSpeed: 0.70,
-    zoom: 0.90
+    waveSpeed: 0.75,
+    zoom: 0.80
   })
