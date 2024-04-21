@@ -31,16 +31,13 @@ To clone the repository and run the website locally, use the following commands:
 git clone https://github.com/akhilpsin/profile.git  
 cd profile
 ```
-# Open index.html in your browser  
- 
+To view the website, simply open the index.html file in a web browser.
+
 ## Usage
  
 The website is structured with a main index.html file that contains the entire content of the site. The assets folder includes CSS stylesheets, JS scripts, and images used across the site.
 
-To view the website, simply open the index.html file in a web browser.
-
-Contributions
- 
+## Contributions
 If you have any suggestions, please open an issue.
 
 ## Contact
