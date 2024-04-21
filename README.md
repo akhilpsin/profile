@@ -29,7 +29,7 @@ To clone the repository and run the website locally, use the following commands:
   
 ```bash  
 git clone https://github.com/akhilpsin/profile.git  
-cd your-repo-name
+cd profile
 ```
 # Open index.html in your browser  
  
