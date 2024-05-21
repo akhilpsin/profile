@@ -96,7 +96,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #000000;
+		background: #1b1f22;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -261,7 +261,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: rgb(0, 0, 0);
+		background: rgba(255, 255, 255, 0.075);
 		border-radius: 4px;
 		font-family: "Courier New", monospace;
 		font-size: 0.9rem;
@@ -426,7 +426,7 @@ input, select, textarea {
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			background: rgb(0, 0, 0);
+			background: rgba(255, 255, 255, 0.075);
 			border-color: #ffffff;
 			box-shadow: 0 0 0 1px #ffffff;
 		}
@@ -443,7 +443,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #000000;
+			background: #1b1f22;
 		}
 
 		select:focus::-ms-value {
@@ -536,7 +536,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			background: rgb(0, 0, 0);
+			background: rgba(255, 255, 255, 0.075);
 			border-color: #ffffff;
 			box-shadow: 0 0 0 1px #ffffff;
 		}
@@ -628,7 +628,7 @@ input, select, textarea {
 		.image:before {
 			pointer-events: none;
 			background-image: url("../../images/overlay.png");
-			background-color: rgb(0, 0, 0);
+			background-color: rgba(19, 21, 25, 0.5);
 			border-radius: 4px;
 			content: '';
 			display: block;
@@ -1137,7 +1137,6 @@ input, select, textarea {
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 			/* background-image: url("../../images/bg.jpg"); */ 
-			background-color:#000000
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
