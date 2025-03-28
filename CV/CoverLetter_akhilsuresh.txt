@@ -1,0 +1,26 @@
+[Your Name]
+Güterstraße 6, 94469, Deggendorf, Germany
+Email: akhilpsinbox@gmail.com
+Phone: (+49) 15510248642
+Date: [Insert Date]
+
+[Hiring Manager’s Name]
+[Company Name]
+[Company Address]
+
+Subject: Application for AI Specialist / Software Engineer / Traineeship Role
+
+Dear [Hiring Manager's Name],
+
+I am writing to express my interest in AI Specialist, Software Engineer, or related roles within your esteemed organization. As a dedicated software engineer with 4.5 years of experience in full-stack development, API integration, automation, and AI/ML applications, I am eager to contribute my technical expertise and problem-solving skills to innovative projects.
+
+My professional journey has equipped me with proficiency in Python, FastAPI, Flask, Django, and cloud technologies like Azure. I have worked on automation frameworks, web scraping, data pipelines, and AI-driven solutions, including NLP and ML model implementations. Additionally, my experience with Elasticsearch and database management has allowed me to build scalable and efficient applications.
+
+Beyond my technical capabilities, I thrive in collaborative environments and have actively participated in cross-functional teams to drive impactful solutions. I am adaptable, eager to learn, and open to opportunities ranging from full-time and part-time roles to traineeships, where I can continue growing while delivering value to the organization.
+
+I would love the opportunity to discuss how my skills align with your company’s needs. Please find my CV attached for further details. I look forward to the possibility of contributing to your team and would appreciate the chance for an interview at your convenience.
+
+Thank you for your time and consideration. I hope to hear from you soon.
+
+Best regards,
+Akhil Pandaraparambil Suresh
