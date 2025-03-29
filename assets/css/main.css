@@ -1046,9 +1046,9 @@ body.is-preload #bg:before {
   
 #header .content .inner {  
     transition: max-height 0.75s ease, padding 0.75s ease, opacity 0.325s ease-in-out;  
-    transition-delay: 0.25s;  
-    padding: 3rem 2rem;  
-    max-height: 40rem;  
+    transition-delay: 0.30s;  
+    padding: 2rem 2rem;  
+    max-height: 30rem;  
     overflow: hidden;  
 }  
   
@@ -1219,7 +1219,7 @@ body.is-preload #header .content .inner {
 #main article {  
     transform: translateY(0.25rem);  
     transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;  
-    padding: 4.5rem 2.5rem 1.5rem 2.5rem;  
+    padding: 3.5rem 2.5rem 1.5rem 2.5rem;  
     position: relative;  
     width: 40rem;  
     max-width: 100%;  
@@ -1286,7 +1286,7 @@ body.is-preload #header .content .inner {
   
 @media screen and (max-width: 480px) {  
     #main article {  
-        padding: 3rem 1.5rem 0.5rem 1.5rem;  
+        padding: 2rem 1.5rem 0.5rem 1.5rem;  
     }  
 }  
   
@@ -1295,7 +1295,7 @@ body.is-preload #header .content .inner {
     transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out, opacity 0.325s ease-in-out;  
     width: 100%;  
     max-width: 100%;  
-    margin-top: 2rem;  
+    margin-top: 1rem;  
     text-align: center;  
 }  
   
@@ -1316,7 +1316,6 @@ body.is-article-visible #footer {
 body.is-preload #footer {  
     opacity: 0;  
 }  
-  
 
 /* -------- >  Experience Section */
 #experience {
